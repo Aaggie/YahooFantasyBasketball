@@ -1,0 +1,7 @@
+README.md
+setup.py
+example_pkg/__init__.py
+yahoo_fantasy_basketball.egg-info/PKG-INFO
+yahoo_fantasy_basketball.egg-info/SOURCES.txt
+yahoo_fantasy_basketball.egg-info/dependency_links.txt
+yahoo_fantasy_basketball.egg-info/top_level.txt
